@@ -1,7 +1,3 @@
-Here is a **catchy and professional README** for your **Machine Learning Chatbot (SONI)** project. It is structured to appeal to HR and hiring managers, making your work **stand out** while keeping the technical depth intact.
-
----
-
 # **🤖 SONI – AI-Powered Machine Learning Chatbot**  
 🚀 **An Intelligent NLP Chatbot for Real-World Conversations**  
 
